@@ -2,7 +2,7 @@
  * This class creates the blue print for creating a shoal of Fish objects in an
  * array list.
  * 
- * @author Ashley Crawford
+ * @author Ashley C
  */
 package fishTank;
 
