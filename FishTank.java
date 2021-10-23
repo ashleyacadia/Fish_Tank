@@ -2,7 +2,7 @@
  * Fish tank class draws GUI and button to add Fish objects to the window and list.
  * 
  * 
- * @author Ashley Crawford
+ * @author Ashley C
  */
 package fishTank;
 
