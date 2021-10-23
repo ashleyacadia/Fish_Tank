@@ -4,7 +4,7 @@ package fishTank;
  * This class represents all variables which make up a Fish object. 
  * It draws, moves, checks for other Fish objects to eat and 
  * kills Fish thread and removes if from the shoal.
- * @author Ashley Crawford 
+ * @author Ashley C
  *
  */
 import java.awt.Color;
